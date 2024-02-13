@@ -1306,6 +1306,13 @@ odm/etc/nfc/libnfc-mtp-SN220.conf_23861:vendor/etc/libnfc-nxp.conf
 odm/etc/nfc/libnfc-nci.conf_23861:vendor/etc/libnfc-nci.conf
 odm/lib/libsn220u_fw.so:vendor/lib64/libsn220u_fw.so
 
+# Oplus Touch
+odm/bin/hw/vendor-oplus-hardware-touch-V2-service
+odm/bin/touchDaemon
+odm/etc/init/init.touchDaemon.rc
+odm/etc/init/vendor-oplus-hardware-touch-V2-service.rc
+odm/etc/vintf/manifest/manifest_touch_aidl.xml
+
 # Sensors config
 odm/etc/sensor/config/aston_qrd_ois_system.json
 odm/etc/sensor/config/kailua_mtp_alsps.json
