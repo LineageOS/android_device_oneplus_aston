@@ -5,21 +5,21 @@
 #
 
 # Partitions
-BOARD_SUPER_PARTITION_SIZE := 16940199936
+BOARD_SUPER_PARTITION_SIZE := 16642998272
 
 # Include the common OEM chipset BoardConfig.
 include device/oneplus/sm8550-common/BoardConfigCommon.mk
 
-DEVICE_PATH := device/oneplus/salami
+DEVICE_PATH := device/oneplus/aston
 
 # Assert
-TARGET_OTA_ASSERT_DEVICE := OP591BL1,OP594DL1
+TARGET_OTA_ASSERT_DEVICE := OP5D35L1
 
 # Display
-TARGET_SCREEN_DENSITY := 450
+TARGET_SCREEN_DENSITY := 420
 
 # Kernel
-TARGET_KERNEL_ADDITIONAL_FLAGS += CONFIG_SALAMI_DTB=y
+TARGET_KERNEL_ADDITIONAL_FLAGS += CONFIG_ASTON_DTB=y
 
 # Power
 TARGET_TAP_TO_WAKE_NODE := "/proc/touchpanel/double_tap_enable"
@@ -33,4 +33,4 @@ TARGET_VENDOR_PROP += $(DEVICE_PATH)/vendor.prop
 TARGET_RECOVERY_UI_MARGIN_HEIGHT := 103
 
 # Include the proprietary files BoardConfig.
-include vendor/oneplus/salami/BoardConfigVendor.mk
+include vendor/oneplus/aston/BoardConfigVendor.mk
