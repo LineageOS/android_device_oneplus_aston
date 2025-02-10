@@ -1363,9 +1363,16 @@ odm/firmware/ufs/SKhynix-HN8T274EJKX130.bin
 odm/firmware/ufs/move_target_ufs_fw_to_oplusreserve1.sh
 odm/firmware/ufs/ufs_version_config.xml
 
-# Vibrator
-odm/etc/aac_richtap.config
-vendor/lib64/libaacvibrator.so
+# UFS
+odm/firmware/ufs/MICRON-MT001TAYAX8U40.bin
+odm/firmware/ufs/MICRON-MT128GBCAV2U31.bin
+odm/firmware/ufs/SAMSUNG-KLUEG4RHGB-B0E1.bin
+odm/firmware/ufs/SAMSUNG-KLUEG4RHHD-B0G1.bin
+odm/firmware/ufs/SAMSUNG-KLUFG8RHHD-B0G1.bin
+odm/firmware/ufs/SAMSUNG-KLUGGARHHD-B0G1.bin
+odm/firmware/ufs/SKhynix-HN8T274EJKX130.bin
+odm/firmware/ufs/move_target_ufs_fw_to_oplusreserve1.sh
+odm/firmware/ufs/ufs_version_config.xml
 
 # WiFi
 odm/etc/wifi/kiwi/bdwlan.b0a
