@@ -1353,10 +1353,6 @@ odm/firmware/ufs/SKhynix-HN8T274EJKX130.bin
 odm/firmware/ufs/move_target_ufs_fw_to_oplusreserve1.sh
 odm/firmware/ufs/ufs_version_config.xml
 
-# Vibrator
-odm/etc/aac_richtap.config
-vendor/lib64/libaacvibrator.so
-
 # WiFi
 odm/etc/wifi/kiwi/bdwlan.b0a
 odm/etc/wifi/kiwi/bdwlan.b0ie
