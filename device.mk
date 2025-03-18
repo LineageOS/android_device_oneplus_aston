@@ -21,6 +21,10 @@ TARGET_SCREEN_WIDTH := 1264
 PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/configs/display_id_4630946607878435459.xml:$(TARGET_COPY_OUT_VENDOR)/etc/displayconfig/display_id_4630946607878435459.xml
 
+# Display
+PRODUCT_SYSTEM_PROPERTIES += \
+    sys.brightness.disable_gamma_conversion=true
+
 # Fingerprint
 $(call soong_config_set,OPLUS_LINEAGE_UDFPS_EXT,SKIP_OPLUS_DIMLAYER_ZORDER,true)
 
