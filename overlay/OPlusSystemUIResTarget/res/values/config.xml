@@ -8,4 +8,7 @@
     <!-- Whether to enable framework dimming for UDFPS -->
     <bool name="config_udfpsFrameworkDimming">true</bool>
 
+    <!-- Array of brightness-alpha LUT for framework dimming -->
+    <string-array name="config_udfpsDimmingBrightnessAlphaArray" translatable="false"></string-array>
+
 </resources>
