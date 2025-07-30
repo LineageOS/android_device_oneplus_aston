@@ -33,6 +33,7 @@ PRODUCT_PACKAGES += \
 
 # Fingerprint
 $(call soong_config_set,surfaceflinger,udfps_lib,//hardware/oplus:libudfps_extension.oplus)
+$(call soong_config_set_bool,qtidisplay,oplus_udfps,true)
 
 # LiveDisplay
 $(call soong_config_set_bool,OPLUS_LINEAGE_LIVEDISPLAY_HAL,ENABLE_AF,true)
