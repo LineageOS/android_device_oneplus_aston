@@ -55,9 +55,9 @@ volume index from 0 to 100.
     </volume>
 	#else OPLUS_BUG_STABILITY -->
      <volume stream="AUDIO_STREAM_VOICE_CALL" deviceCategory="DEVICE_CATEGORY_EARPIECE">
-        <point>0,-3700</point>
-        <point>33,-1800</point>
-        <point>66,-900</point>
+        <point>0,-3900</point>
+        <point>33,-2600</point>
+        <point>66,-1300</point>
         <point>100,0</point>
     </volume>
     <!-- #endif OPLUS_BUG_STABILITY -->
@@ -92,9 +92,9 @@ volume index from 0 to 100.
 	#else OPLUS_BUG_STABILITY -->
     <volume stream="AUDIO_STREAM_RING" deviceCategory="DEVICE_CATEGORY_SPEAKER">
         <point>1,-4000</point>
-        <point>33,-2910</point>
-        <point>66,-1620</point>
-        <point>100,-300</point>
+        <point>33,-2500</point>
+        <point>66,-1000</point>
+        <point>100,-100</point>
     </volume>
     <!-- #endif OPLUS_BUG_STABILITY -->
     <volume stream="AUDIO_STREAM_RING" deviceCategory="DEVICE_CATEGORY_EARPIECE"
@@ -126,9 +126,9 @@ volume index from 0 to 100.
 	#else OPLUS_BUG_STABILITY -->
 	<volume stream="AUDIO_STREAM_ALARM" deviceCategory="DEVICE_CATEGORY_SPEAKER">
         <point>1,-4000</point>
-        <point>33,-2910</point>
-        <point>66,-1620</point>
-        <point>100,-300</point>
+        <point>33,-2500</point>
+        <point>66,-1000</point>
+        <point>100,-100</point>
     </volume>
     <volume stream="AUDIO_STREAM_ALARM" deviceCategory="DEVICE_CATEGORY_EARPIECE"
                                         ref="DEFAULT_NON_MUTABLE_EARPIECE_VOLUME_CURVE"/>
@@ -149,9 +149,9 @@ volume index from 0 to 100.
 	#else OPLUS_BUG_STABILITY -->
     <volume stream="AUDIO_STREAM_NOTIFICATION" deviceCategory="DEVICE_CATEGORY_SPEAKER">
         <point>1,-4300</point>
-        <point>33,-3210</point>
-        <point>66,-1920</point>
-        <point>100,-600</point>
+        <point>33,-2500</point>
+        <point>66,-1000</point>
+        <point>100,-100</point>
     </volume>
     <!-- #endif OPLUS_BUG_STABILITY -->
     <volume stream="AUDIO_STREAM_NOTIFICATION" deviceCategory="DEVICE_CATEGORY_EARPIECE"
