@@ -1271,6 +1271,8 @@ odm/etc/irissoft_AA551_P_3_A0004_dsc_cmd_mode_panel.dat
 odm/etc/irissoft_AA551_P_3_A0004_dsc_cmd_mode_panel.fw
 odm/etc/irissoft_AA551_P_3_A0004_dsc_cmd_mode_panel.xml
 odm/firmware/pxlw_i7p_panel_AA551_P_3_A0004_dsc_cmd.fw
+odm/lib64/hw/vendor.pixelworks.hardware.display@1.0-impl-1.2-i7p.so
+odm/lib64/libpwirisservicei7p.so
 
 # Display calibration data
 vendor/etc/display/qdcm_calib_data_AA551_P_3_A0004_dsc_cmd_mode_panel.json
