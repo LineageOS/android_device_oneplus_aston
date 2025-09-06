@@ -22,7 +22,7 @@ TARGET_SCREEN_DENSITY := 420
 TARGET_KERNEL_ADDITIONAL_FLAGS += CONFIG_ASTON_DTB=y
 
 # Power
-TARGET_TAP_TO_WAKE_NODE := "/proc/touchpanel/double_tap_enable"
+TARGET_POWERHAL_MODE_EXT_LIB := power-ext-oplus
 
 # Properties
 TARGET_ODM_PROP += $(DEVICE_PATH)/odm.prop
