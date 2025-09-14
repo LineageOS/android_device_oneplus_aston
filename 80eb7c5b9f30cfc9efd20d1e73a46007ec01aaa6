@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "631bbebc_033ac188",
+        "filename": "vendor.prop",
+        "patchSetId": 1
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2025-09-14T19:21:26Z",
+      "side": 1,
+      "message": "Does marketing name also have 5G?",
+      "revId": "80eb7c5b9f30cfc9efd20d1e73a46007ec01aaa6",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
