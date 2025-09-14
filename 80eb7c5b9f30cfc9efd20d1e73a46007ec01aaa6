@@ -16,6 +16,24 @@
       "message": "Does marketing name also have 5G?",
       "revId": "80eb7c5b9f30cfc9efd20d1e73a46007ec01aaa6",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "f659860c_41b4d6fd",
+        "filename": "vendor.prop",
+        "patchSetId": 1
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 32811
+      },
+      "writtenOn": "2025-09-14T19:26:25Z",
+      "side": 1,
+      "message": "Nope",
+      "parentUuid": "631bbebc_033ac188",
+      "revId": "80eb7c5b9f30cfc9efd20d1e73a46007ec01aaa6",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
