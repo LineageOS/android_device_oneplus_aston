@@ -1,0 +1,67 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "84fe2410_f1aabddd",
+        "filename": "proprietary-files.txt",
+        "patchSetId": 4
+      },
+      "lineNbr": 501,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2025-09-14T22:25:42Z",
+      "side": 1,
+      "message": "Make sure that this is not a sensitive file.",
+      "revId": "761623432f880aac6bf7d96fe25b63133b50994b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "6bc65555_58f2c84c",
+        "filename": "proprietary-files.txt",
+        "patchSetId": 4
+      },
+      "lineNbr": 772,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2025-09-14T22:25:42Z",
+      "side": 1,
+      "message": "Same here.",
+      "range": {
+        "startLine": 772,
+        "startChar": 0,
+        "endLine": 772,
+        "endChar": 49
+      },
+      "revId": "761623432f880aac6bf7d96fe25b63133b50994b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "60431e9a_4aa55031",
+        "filename": "proprietary-files.txt",
+        "patchSetId": 4
+      },
+      "lineNbr": 824,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2025-09-14T22:25:42Z",
+      "side": 1,
+      "message": "...and here.",
+      "range": {
+        "startLine": 824,
+        "startChar": 0,
+        "endLine": 824,
+        "endChar": 38
+      },
+      "revId": "761623432f880aac6bf7d96fe25b63133b50994b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
