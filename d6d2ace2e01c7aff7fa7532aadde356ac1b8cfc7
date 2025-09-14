@@ -16,6 +16,24 @@
       "message": "I wouldn\u0027t mind adding these blobs to common tree. It would become similar to sm8650 and sm8750. Probably OnePlus Open uses this.",
       "revId": "d6d2ace2e01c7aff7fa7532aadde356ac1b8cfc7",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "1d394e31_673feff1",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 3
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 32811
+      },
+      "writtenOn": "2025-09-14T19:35:14Z",
+      "side": 1,
+      "message": "not sure about open but xigua (OnePlus Ace 2 Pro) uses it",
+      "parentUuid": "10a0f5ff_4c2e1a31",
+      "revId": "d6d2ace2e01c7aff7fa7532aadde356ac1b8cfc7",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
