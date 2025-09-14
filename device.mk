@@ -21,6 +21,9 @@ TARGET_SCREEN_WIDTH := 1264
 PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/configs/display_id_4630946607878435459.xml:$(TARGET_COPY_OUT_VENDOR)/etc/displayconfig/display_id_4630946607878435459.xml
 
+# Fingerprint
+$(call soong_config_set,OPLUS_LINEAGE_UDFPS_EXT,SKIP_OPLUS_DIMLAYER_ZORDER,true)
+
 # IR
 PRODUCT_COPY_FILES += \
     frameworks/native/data/etc/android.hardware.consumerir.xml:$(TARGET_COPY_OUT_ODM)/etc/permissions/android.hardware.consumerir.xml
