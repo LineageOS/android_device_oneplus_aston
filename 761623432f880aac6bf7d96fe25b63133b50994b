@@ -1,6 +1,23 @@
 {
   "comments": [
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "f18de824_77dce3d8",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 4
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2025-09-15T00:07:56Z",
+      "side": 1,
+      "message": "For the record: https://review.lineageos.org/c/LineageOS/charter/+/331199",
+      "revId": "761623432f880aac6bf7d96fe25b63133b50994b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "84fe2410_f1aabddd",
