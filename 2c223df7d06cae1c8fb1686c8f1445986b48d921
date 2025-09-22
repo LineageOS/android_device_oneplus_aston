@@ -16,6 +16,24 @@
       "message": "Blind merge?",
       "revId": "2c223df7d06cae1c8fb1686c8f1445986b48d921",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "a7173213_6429f965",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 3
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 32811
+      },
+      "writtenOn": "2025-09-22T01:56:02Z",
+      "side": 1,
+      "message": "Can wait",
+      "parentUuid": "12791080_73a3e030",
+      "revId": "2c223df7d06cae1c8fb1686c8f1445986b48d921",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
