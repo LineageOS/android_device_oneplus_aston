@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "cb40c70f_b96089d6",
+        "filename": "extract-files.py",
+        "patchSetId": 2
+      },
+      "lineNbr": 72,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2025-09-24T08:32:31Z",
+      "side": 0,
+      "message": "Restore this.",
+      "range": {
+        "startLine": 71,
+        "startChar": 0,
+        "endLine": 72,
+        "endChar": 69
+      },
+      "revId": "5bdc0ad9ce0f987e680ddb35a4bc042a8d0fd50b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
