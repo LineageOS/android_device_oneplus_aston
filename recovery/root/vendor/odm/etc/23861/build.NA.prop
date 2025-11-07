@@ -1,2 +1,6 @@
+# Device info
 ro.product.odm.model=CPH2611
 ro.product.odm.name=CPH2611
+
+# eSIM
+ro.vendor.oplus.radio.esim.feature=2
