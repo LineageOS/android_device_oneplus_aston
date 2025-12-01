@@ -1,5 +1,5 @@
 ## All proprietary files from this list, unless pinned and noted otherwise,
-## are from OnePlus 12R (CPH2585_15.0.0.870(EX01)).
+## are from OnePlus 12R (CPH2609_15.0.0.870(EX01)).
 
 # ACDB
 odm/etc/acdbdata/FTM/acdb_cal.acdb
