@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "1d6d22ec_69cf24e0",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2026-01-05T17:00:12Z",
+      "side": 1,
+      "message": "Uhhhh... judging by the picture of the device, volume rocker is placed on the right.",
+      "revId": "c3e9faa3b654617000d3b05f9db7dd932d8f671d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
