@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "3b552a40_afb193f9",
+        "filename": "overlay/OPlusSystemUIResTarget/res/drawable/rounded.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2026-01-07T23:26:00Z",
+      "side": 0,
+      "message": "Removal doesn\u0027t look correct.",
+      "revId": "e212ad71ca84371947d281e13213dc548161bfe9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
