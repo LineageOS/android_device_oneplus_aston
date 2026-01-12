@@ -1316,6 +1316,9 @@ odm/etc/nfc/libnfc-nci.conf_23861:vendor/etc/libnfc-nci.conf
 # NFC firmware
 odm/etc/nfc/sn220u.bin_sn220tu_fw_01_01_30:vendor/firmware/sn220u.bin
 
+# Secure element
+odm/etc/vintf/manifest/manifest_secure_element.xml
+
 # Sensors config
 odm/etc/sensor/config/aston_qrd_ois_system.json
 odm/etc/sensor/config/kailua_mtp_alsps.json
