@@ -955,6 +955,8 @@ odm/lib64/libaisd.so
 odm/lib64/libaiseg.so
 odm/lib64/libaisr.so
 odm/lib64/libalCFR.so
+odm/lib64/libalog.so
+odm/lib64/libalogencrypt.so
 odm/lib64/libancbase_rt_fusion.so;FIX_SONAME
 odm/lib64/libancbase_segbase.so
 odm/lib64/libancbase_segment.so
@@ -1003,6 +1005,8 @@ odm/lib64/libarcsoft_videoautozoom.so;FIX_SONAME
 odm/lib64/libcalculator.so
 odm/lib64/libcalculator_htp.so
 odm/lib64/libcreatebin.so
+odm/lib64/libcreatebinForBaseretouch.so
+odm/lib64/libcreatebinForFaceretouch.so
 odm/lib64/libcustomer_halalgovisual.so
 odm/lib64/libcvface_api.so
 odm/lib64/libdlrmsc.so
@@ -1034,10 +1038,6 @@ odm/lib64/libremosaiclib_s5kjn1.so;FIX_SONAME
 odm/lib64/librmsclib1.so
 odm/lib64/libsaveshaderbin.so
 odm/lib64/libsdk_sr.so
-odm/lib64/libcreatebinForBaseretouch.so
-odm/lib64/libcreatebinForFaceretouch.so
-odm/lib64/libalogencrypt.so
-odm/lib64/libalog.so
 odm/lib64/libsharebuffer.so
 odm/lib64/libsharebuffer_impl.so
 odm/lib64/libsnpe_loader.so
