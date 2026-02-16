@@ -19,6 +19,7 @@ from extract_utils.main import (
 
 namespace_imports = [
     'hardware/oplus',
+    'hardware/pixelworks/interfaces',
     'hardware/qcom-caf/sm8550',
     'vendor/oneplus/sm8550-common',
     'vendor/qcom/opensource/display',
@@ -34,6 +35,8 @@ lib_fixups: lib_fixups_user_type = {
     **lib_fixups,
     (
         'libhwconfigurationutil',
+        'libpwirisfeature',
+        'libpwirishalwrapper',
         'vendor.oplus.hardware.cammidasservice-V1-ndk',
     ): lib_fixup_vendor_suffix,
 }
