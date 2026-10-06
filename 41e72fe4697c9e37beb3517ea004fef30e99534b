@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "216d8f45_eb447db3",
+        "filename": "proprietary-files.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 1349,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2026-10-06T06:39:31Z",
+      "side": 0,
+      "message": "You can rename this to the normal config, without need to set a special prop.",
+      "range": {
+        "startLine": 1349,
+        "startChar": 40,
+        "endLine": 1349,
+        "endChar": 75
+      },
+      "revId": "41e72fe4697c9e37beb3517ea004fef30e99534b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
