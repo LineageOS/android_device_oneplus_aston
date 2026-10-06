@@ -89,6 +89,24 @@
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "e19b7b6a_b078d6a3",
+        "filename": "properties/23861/build.default.prop",
+        "patchSetId": 5
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 32811
+      },
+      "writtenOn": "2026-10-06T07:49:51Z",
+      "side": 0,
+      "message": "Done",
+      "parentUuid": "e45007c9_eb588d46",
+      "revId": "41e72fe4697c9e37beb3517ea004fef30e99534b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "216d8f45_eb447db3",
