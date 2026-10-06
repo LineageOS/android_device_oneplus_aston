@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "30b58c11_48807c54",
+        "filename": "properties/23861/build.default.prop",
+        "patchSetId": 6
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2026-10-06T07:51:12Z",
+      "side": 1,
+      "message": "Why?",
+      "range": {
+        "startLine": 1,
+        "startChar": 16,
+        "endLine": 1,
+        "endChar": 21
+      },
+      "revId": "6474897fe28a0c57e8cb0c50cff63b160c6e986e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
