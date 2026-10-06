@@ -73,6 +73,24 @@
     {
       "unresolved": true,
       "key": {
+        "uuid": "e45007c9_eb588d46",
+        "filename": "properties/23861/build.default.prop",
+        "patchSetId": 5
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 32811
+      },
+      "writtenOn": "2026-10-06T07:46:26Z",
+      "side": 0,
+      "message": "Actually, i still need to import regional props based on region (EU/NA/IN)",
+      "parentUuid": "2453bcb3_56048bbf",
+      "revId": "41e72fe4697c9e37beb3517ea004fef30e99534b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
         "uuid": "216d8f45_eb447db3",
         "filename": "proprietary-files.txt",
         "patchSetId": 2
